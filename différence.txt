@@ -1,0 +1,4 @@
+La différence entre les fichiers <<virtualization.html>> et <<virtualization2.html>> se trouve au niveau du style.
+Déjà on remarque une différence de couleur du background au niveau des deux fichiers html.Aussi on niveau du fichier 
+virtualization2.html, on note la présence d'une marge de part de la droite et de la gauche.Et également une bordure 
+en pointillés de couleur noire et une marge intérieure assez importante.
